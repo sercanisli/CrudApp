@@ -1,3 +1,6 @@
+This is an task application. Universally unique identifier library is used for id operations. The UI in the app is developed with tailwindCSS. Next.js version 13.4.1 is used.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
