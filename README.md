@@ -5,7 +5,7 @@ This is an task application. Universally unique identifier library is used for i
 ![Home Page](https://github.com/sercanisli/CrudApp/assets/128610192/b8a2711b-fb82-4803-aa3b-bc00335909b6)
 
 
-2-) Add task area that opens after click the '+' button
+2-) Add Task Area That Opens After Click The '+' Button
 ![Add task area that opens after pressing the + button](https://github.com/sercanisli/CrudApp/assets/128610192/c021e882-3118-459b-9779-22888b43e4ad)
 
 
@@ -14,6 +14,7 @@ This is an task application. Universally unique identifier library is used for i
 
 
 4-) Alert After Clicking The Delete Buttun
+
 ![Alert after clicking the delete button](https://github.com/sercanisli/CrudApp/assets/128610192/c0477ae7-4928-40ff-b2b2-9565e808b64d)
 
 
