@@ -1,6 +1,24 @@
 This is an task application. Universally unique identifier library is used for id operations. The UI in the app is developed with tailwindCSS. Next.js version 13.4.1 is used.
 
 
+1-) Home Page
+![Home Page](https://github.com/sercanisli/CrudApp/assets/128610192/b8a2711b-fb82-4803-aa3b-bc00335909b6)
+
+
+2-) Add task area that opens after click the '+' button
+![Add task area that opens after pressing the + button](https://github.com/sercanisli/CrudApp/assets/128610192/c021e882-3118-459b-9779-22888b43e4ad)
+
+
+3-) Home Page Ater Adding Tak
+![homepage afteradding task](https://github.com/sercanisli/CrudApp/assets/128610192/4ed9df44-d7ba-4971-88d5-8c9952aa60d8)
+
+
+4-) Alert After Clicking The Delete Buttun
+![Alert after clicking the delete button](https://github.com/sercanisli/CrudApp/assets/128610192/c0477ae7-4928-40ff-b2b2-9565e808b64d)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
